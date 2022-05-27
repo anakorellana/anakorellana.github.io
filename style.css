@@ -1,0 +1,102 @@
+body {
+
+    color: #333333;
+    margin-top: 5rem;
+  
+  }
+    
+  
+h1 {
+
+    font-family:'Chivo', sans-serif;
+      color: teal;
+      size: 5.5em;
+  }
+
+h3 {
+    font-family:'Chivo', sans-serif;
+    color: black;
+}  
+  
+  
+p {
+    color: gray;
+}
+
+a{
+    text-decoration: none;
+    color: teal;
+}
+
+pre {
+
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+
+
+.main-img {
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;  
+    height: 500px;
+    width: 700px;
+  }
+
+
+
+li {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+
+
+.bottom-img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 140px;
+    width: 220px;
+    
+}
+    
+
+/* height: 140px;
+    width: 250px;
+} */
+
+
+.column {
+    flex: 33.33%;
+    height: 200px;
+    padding: 10px;
+    margin: 5px;
+    background-color:#f8fcfd;
+    text-align: justify;
+  }
+  .container {
+     display: flex;
+  }
+
+
+
+
+/* 
+.container {
+    display: grid;
+    grid-template-columns: 100px 150px 200px;
+    text-align: center;
+    
+    
+  }
+
+
+.column {
+
+    padding: 16px;
+    height: 250px;
+    margin: 5px;
+    background-color: #cccccc;
+  } */
