@@ -1,7 +1,7 @@
 # anakorellana.github.io
 
 # Portafolio
-<a href="https://anakorellana.github.io/Pacmen/">
+<a href="https://anakorellana.github.io/Pacmen/">Pacmen Game </a>
 
 <h2>Description</h2>
 
