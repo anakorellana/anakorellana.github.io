@@ -1,18 +1,16 @@
 # anakorellana.github.io
-# About Me
 
-I am Ana Karina Orellana. I am avid learner who codes, runs and bakes. 
-
+# Portafolio
+<a href=""
 
 <h2>Description</h2>
 
-There is a linK to my blog for more details about myself.
+You will find a few projects that I have been working on  and fun facts about me.
 
 
 <h2>Usage</h2>
 
-Pretty simple, you just have to go to anakorellana.github.io and voila you will learn more about myself. Feel free to use it and edit it
-for your own purposes.
+There are a few repos to look at such as Pacmen,  and also a quick biography about myself where you can find my personal blog and also a separate portafolio. 
 
 <h2>Support</h2>
 
