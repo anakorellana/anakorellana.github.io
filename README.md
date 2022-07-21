@@ -5,7 +5,7 @@
 <br>
 <a href="https://anakorellana.github.io/grid/">Creating a Grid </a>
 <br>
-<a href="https://anakorellana.github.io/eyes/">Moving eyes with the mouse </a>
+<a href="https://anakorellana.github.io/Eyes/">Moving eyes with the mouse </a>
 
 <h2>Description</h2>
 
