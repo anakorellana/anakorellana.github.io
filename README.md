@@ -7,7 +7,7 @@
 <br>
 <a href="https://anakorellana.github.io/Eyes/">Moving Eyes </a>
 <br>
-<a href="https://anakorellana.github.io/Eyes/">Berlin Marathon</a>
+<a href="https://anakorellana.github.io/berlinmarathon/">Berlin Marathon</a>
 
 
 <h2>Description</h2>
