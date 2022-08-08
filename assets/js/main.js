@@ -201,8 +201,6 @@
 	
 	
 	
-		var dt = new Date();
-		document.getElementByClassName('date-time').innerHTML=dt;
 
 		var $intro = $('#intro');
 -
