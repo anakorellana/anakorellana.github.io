@@ -197,6 +197,13 @@
 						.css('transition', 'none');
 
 	// Intro.
+	
+	
+	
+	
+		var dt = new Date();
+		document.getElementById('date-time').innerHTML=dt;
+
 		var $intro = $('#intro');
 
 		if ($intro.length > 0) {
