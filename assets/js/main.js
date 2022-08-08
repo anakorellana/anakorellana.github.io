@@ -197,13 +197,8 @@
 						.css('transition', 'none');
 
 	// Intro.
-	
-	
-	
-	
-
 		var $intro = $('#intro');
--
+
 		if ($intro.length > 0) {
 
 			// Hack: Fix flex min-height on IE.
