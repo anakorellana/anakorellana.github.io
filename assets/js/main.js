@@ -202,7 +202,7 @@
 	
 	
 		var dt = new Date();
-		document.getElementById('date').innerHTML=dt;
+		document.getElementByClassName('date').innerHTML=dt;
 
 		var $intro = $('#intro');
 
