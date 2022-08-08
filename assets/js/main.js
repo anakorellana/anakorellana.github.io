@@ -202,10 +202,10 @@
 	
 	
 		var dt = new Date();
-		document.getElementByClassName('date').innerHTML=dt;
+		document.getElementByClassName('date-time').innerHTML=dt;
 
 		var $intro = $('#intro');
-
+-
 		if ($intro.length > 0) {
 
 			// Hack: Fix flex min-height on IE.
